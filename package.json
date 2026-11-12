@@ -1,0 +1,15 @@
+{
+  "name": "aurora-plus-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicativo demonstrativo de carteira fechada entre usu\u00e1rios cadastrados.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.8.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
